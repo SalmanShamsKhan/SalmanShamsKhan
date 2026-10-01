@@ -7,7 +7,7 @@
 
 ## Engineering focus
 
-I am Salman, a cloud and DevOps engineer with **10+ years of infrastructure and platform experience**. I work across AWS, Azure, Kubernetes, infrastructure as code and delivery automation. My background includes Principal DevOps roles, solutions architecture, enterprise platform operations and server administration.
+I am Salman, a cloud and DevOps engineer with **9+ years of infrastructure and platform experience**. I work across AWS, Azure, Kubernetes, infrastructure as code and delivery automation. My background includes Principal DevOps roles, solutions architecture, enterprise platform operations and server administration.
 
 My work connects application delivery with the responsibilities that follow deployment: access controls, monitoring, incident response, recovery procedures and cost-aware infrastructure decisions. I work with developers, QA teams and stakeholders to turn architecture into a system teams can operate.
 
