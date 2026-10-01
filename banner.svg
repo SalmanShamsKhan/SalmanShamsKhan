@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Salman Shams Khan</title>
+  <desc id="desc">Senior DevOps and cloud platform engineer. Infrastructure, delivery automation and reliability.</desc>
+  <rect width="1280" height="320" rx="20" fill="#0d1117"/>
+  <rect x="0" y="0" width="12" height="320" fill="#ffc000"/>
+  <g fill="none" stroke="#273445" stroke-width="2">
+    <path d="M900 65h240v70H970v90h200M900 65v160h70M1040 135v130"/>
+    <rect x="1120" y="45" width="70" height="42" rx="8"/>
+    <rect x="920" y="115" width="95" height="42" rx="8"/>
+    <rect x="1125" y="205" width="70" height="42" rx="8"/>
+    <circle cx="1040" cy="265" r="12"/>
+  </g>
+  <text x="64" y="104" fill="#ffc000" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">CLOUD · PLATFORM · DEVOPS</text>
+  <text x="64" y="167" fill="#ffffff" font-family="Arial, sans-serif" font-size="52" font-weight="700">Salman Shams Khan</text>
+  <text x="64" y="210" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="25">Senior DevOps &amp; Cloud Platform Engineer</text>
+  <text x="64" y="265" fill="#8b949e" font-family="Arial, sans-serif" font-size="19">Infrastructure as code  /  Delivery automation  /  Reliability</text>
+</svg>
